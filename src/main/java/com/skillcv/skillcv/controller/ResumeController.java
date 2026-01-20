@@ -7,7 +7,6 @@ import com.skillcv.skillcv.service.GeminiService;
 
 @RestController
 @RequestMapping("/api")
-@CrossOrigin
 public class ResumeController {
 
     @Autowired
